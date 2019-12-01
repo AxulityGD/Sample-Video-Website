@@ -21,6 +21,8 @@ button {
 p {
   color: purple;
   background-color: orange;
+  margin:center;
+  display: block;
 }
 
 p1 {
@@ -32,3 +34,5 @@ p1 {
 input {
   margin:center;
 }
+
+
