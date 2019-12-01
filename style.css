@@ -1,0 +1,34 @@
+h1, h2 {
+  font-family: Lato;
+}
+
+body {
+  background-color: red;
+}
+
+
+
+
+button {
+  margin:auto;
+  display:block;
+}
+
+button {
+  background-color: blue;
+}
+
+p {
+  color: purple;
+  background-color: orange;
+}
+
+p1 {
+  color:blue;
+  margin:center;
+
+}
+
+input {
+  margin:center;
+}
